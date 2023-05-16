@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/folkuni-f22-backend/04-database#readme",
   "dependencies": {
-    "lowdb": "^6.0.1"
+    "lowdb": "^6.0.1",
+    "readline-sync": "^1.4.10"
   }
 }
