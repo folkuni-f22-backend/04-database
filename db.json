@@ -1,0 +1,35 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Pippi Långstrump"
+    },
+    {
+      "id": 100,
+      "title": "Mio min Mio"
+    },
+    {
+      "id": 101,
+      "title": "Karlsson på taket"
+    }
+  ],
+  "users": [
+    {
+      "name": "David",
+      "borrowedBooks": [
+        1,
+        100
+      ]
+    },
+    {
+      "name": "Annika",
+      "borrowedBooks": []
+    },
+    {
+      "name": "Ann-Sophie",
+      "borrowedBooks": [
+        101
+      ]
+    }
+  ]
+}

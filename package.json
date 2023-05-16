@@ -1,0 +1,24 @@
+{
+  "name": "04-database",
+  "version": "1.0.0",
+  "description": "Database example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/folkuni-f22-backend/04-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/folkuni-f22-backend/04-database/issues"
+  },
+  "homepage": "https://github.com/folkuni-f22-backend/04-database#readme",
+  "dependencies": {
+    "lowdb": "^6.0.1"
+  }
+}
